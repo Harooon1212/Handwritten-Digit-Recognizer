@@ -1,3 +1,4 @@
+
 # Handwritten Digit Recognizer (CNN - Rotation Robust)
 
 ## Overview
@@ -19,4 +20,7 @@ A Streamlit GUI is included to allow users to:
 
 ---
 
-## Project Structure
+
+
+
+
